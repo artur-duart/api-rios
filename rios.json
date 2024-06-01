@@ -1,0 +1,44 @@
+[
+	{
+		"id": 1,
+		"nome": "Rio Citarum",
+		"localizacao": "Indonésia",
+		"descricao": "O Rio Citarum é conhecido como um dos rios mais poluídos do mundo, principalmente devido à poluição industrial e doméstica. Ele atravessa uma área altamente industrializada em Java Ocidental, na Indonésia, onde muitas fábricas despejam resíduos diretamente no rio, incluindo produtos químicos tóxicos. Além disso, o despejo de lixo e esgoto doméstico contribui para a poluição. Esforços de limpeza têm sido realizados, mas a situação permanece desafiadora.",
+		"foto": "https://raw.githubusercontent.com/artur-duart/api-rios/main/citarum.jpg"
+	},
+	{
+		"id": 2,
+		"nome": "Rio Ganges",
+		"localizacao": "Índia e Bangladesh",
+		"descricao": "O Rio Ganges é um dos rios mais importantes culturalmente para milhões de pessoas na Índia e Bangladesh. No entanto, também é um dos mais poluídos do mundo. A poluição no Ganges é resultado de uma combinação de descargas industriais, esgotos não tratados, resíduos agrícolas e até mesmo atividades religiosas, como a cremação de corpos. Apesar dos esforços governamentais para limpar o rio, a poluição continua sendo um grave problema, afetando a saúde das pessoas que dependem dele para suas necessidades básicas.",
+		"foto": "https://raw.githubusercontent.com/artur-duart/api-rios/main/ganges.jpg"
+	},
+	{
+		"id": 3,
+		"nome": "Rio Amarelo",
+		"localizacao": "China",
+		"descricao": "O Rio Amarelo, também conhecido como Huang He, é o segundo rio mais longo da China e um dos mais importantes do país. No entanto, ao longo dos anos, tornou-se um dos mais poluídos devido à rápida industrialização e urbanização na bacia do rio. Poluentes industriais, esgotos não tratados, resíduos agrícolas e até mesmo a erosão do solo contribuem para a poluição do rio. Esforços de controle de poluição têm sido implementados, mas ainda há muito a ser feito para restaurar a saúde do rio. Atualmente, cerca de 30% de sua extensão tem águas impróprias para o uso agrícola, industrial e consumo humano.",
+		"foto": "https://raw.githubusercontent.com/artur-duart/api-rios/main/amarelo.jpeg"
+	},
+	{
+		"id": 4,
+		"nome": "Rio Sarno",
+		"localizacao": "Itália",
+		"descricao": "O Rio Sarno, localizado na região da Campânia, sul da Itália, é conhecido por sua grave poluição. A poluição do Sarno é principalmente atribuída ao despejo ilegal de resíduos industriais e domésticos. Empresas locais, incluindo fábricas de produtos químicos, têm sido culpadas pela contaminação do rio. Além disso, a falta de infraestrutura adequada para o tratamento de esgoto agrava o problema. A poluição do Rio Sarno é um desafio ambiental significativo para a região.",
+		"foto": "https://raw.githubusercontent.com/artur-duart/api-rios/main/sarno.jpg"
+	},
+	{
+		"id": 5,
+		"nome": "Rio Buriganga",
+		"localizacao": "Bangladesh",
+		"descricao": "O Rio Buriganga, que flui através de Dhaka, a capital de Bangladesh, é uma importante fonte de água para a cidade. No entanto, a poluição se tornou uma séria preocupação devido ao despejo de resíduos industriais e domésticos não tratados. Além disso, atividades como a lavagem de roupas e o descarte de resíduos sólidos contribuem para a degradação da qualidade da água. A poluição do Rio Buriganga afeta não apenas o ecossistema local, mas também a saúde e o bem-estar das comunidades que dependem dele.",
+		"foto": "https://raw.githubusercontent.com/artur-duart/api-rios/main/buriganga.jpg"
+	},
+	{
+		"id": 6,
+		"nome": "Rio Tietê",
+		"localizacao": "São Paulo, Brasil",
+		"descricao": "O Rio Tietê é um dos rios mais importantes do estado de São Paulo, porém, tornou-se notório por sua grave poluição ao longo das décadas. A poluição do Tietê é resultado principalmente do despejo de esgoto doméstico e industrial sem tratamento adequado. Além disso, resíduos sólidos e produtos químicos também contribuem para a degradação da água. Esforços de despoluição têm sido feitos, incluindo a construção de estações de tratamento de esgoto, mas o problema persiste.",
+		"foto": "https://raw.githubusercontent.com/artur-duart/api-rios/main/tiete.jpg"
+	}
+]
